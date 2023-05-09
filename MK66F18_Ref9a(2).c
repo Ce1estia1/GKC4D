@@ -27,7 +27,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-
+//sjy
 /**
  * @file    MK66F18_Ref2a.c
  * @brief   Application entry point.
@@ -45,7 +45,7 @@
 #include "fsl_rtc.h"
 #include "CDK66_OLED.h"
 #include "pin_mux.h"
-
+// sunjinyi
 /* TODO: insert other include files here. */
 
 /* TODO: insert other definitions and declarations here. */
